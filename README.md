@@ -33,4 +33,4 @@ Note: Please make sure you install parcel v2!
 - Users are able to update or delete their profile, aswell as add or remove movies from their list of favorites
 ## Deployment and Demo
 
-You can check the live demo here:
+You can check the live demo here: https://popcorns-and-coke.netlify.app/
